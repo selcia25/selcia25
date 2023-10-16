@@ -16,8 +16,8 @@ Chennai-based software engineer passionate about crafting elegant solutions and 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selcia25&layout=compact)
 ## Get in Touch
 
-**Email:** selcia2110605@ssn.edu.in
-**LinkedIn:** (https://www.linkedin.com/in/selcia/)
+📩**Email:** selcia2110605@ssn.edu.in
+🌐**LinkedIn:** https://www.linkedin.com/in/selcia/
 
 Feel free to reach out for collaboration, questions, or just to connect!
 
