@@ -9,7 +9,7 @@ Hello, and thank you for visiting my GitHub profile! Here, you'll find a collect
 Chennai-based software engineer passionate about crafting elegant solutions and driving innovation through code. Coding my way through the digital maze, one byte at a time.💻🔨
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,html,css,js,react,raspberrypi,nodejs,php,mongodb,mysql,linux,kafka,flask,django,bootstrap,blender" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,html,css,js,react,raspberrypi,nodejs,mongodb,mysql,linux,kafka,flask,bootstrap,blender" />
   </a>
 </p>
 
