@@ -12,7 +12,7 @@ Chennai-based software engineer passionate about crafting elegant solutions and 
     <img src="https://skillicons.dev/icons?i=py,vscode,html,css,js,react,raspberrypi,nodejs,mongodb,mysql,linux,kafka,flask,bootstrap,blender" />
   </a>
 </p>
-
+![Selcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=selcia25&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selcia25&layout=compact)
 ## Get in Touch
 
