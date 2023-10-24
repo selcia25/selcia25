@@ -15,7 +15,6 @@ Chennai-based software engineer passionate about crafting elegant solutions and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selcia25&layout=compact)
 
-[![An image of @selcia25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/selcia25)](https://holopin.io/@selcia25)
 ## Get in Touch
 
 **Email:** selcia2110605@ssn.edu.in 📧
