@@ -21,6 +21,8 @@ Chennai-based software engineer passionate about crafting elegant solutions and 
 
 **LinkedIn:** https://www.linkedin.com/in/selcia/ 🌐
 
+**Website:** https://selcia25.github.io/selcia-portfolio/ ✨
+
 Feel free to reach out for collaboration, questions, or just to connect!
 
 ## Have a Look Around
