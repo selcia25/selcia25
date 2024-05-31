@@ -34,3 +34,7 @@ Thank you for stopping by, and I look forward to connecting with you.
 Happy coding! 🎨
 
 [![@selcia25's Holopin board](https://holopin.me/selcia25)](https://holopin.io/@selcia25)
+
+  <a href = "https://github.com/selcia25">
+    <img src="https://komarev.com/ghpvc/?username=selcia25&color=blue&label=PROFILE+VIEWS" alt = "Profile Views" />
+  </a>
