@@ -17,7 +17,7 @@ Chennai-based software engineer passionate about crafting elegant solutions and 
 
 ## Get in Touch
 
-**Email:** selcia2110605@ssn.edu.in 📧
+**Email:** sselcia25@gmail.com 📧
 
 **LinkedIn:** https://www.linkedin.com/in/selcia/ 🌐
 
